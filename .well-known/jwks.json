@@ -5,7 +5,8 @@
       "use": "sig",
       "alg": "RS384",
       "n": "qsDsIJjHYPEeunFWDgRpY-zhDwj3rqCaaiERRoFbTN-90e2FrFIsIOfIwX4kTA-W-WqiCMQdr9DCVBcHMDBuXMgsRj6Xa55vlC0VUXxftmeEcqo-nO4uHdsaTH1D3ic769ZpT86V--VguXoYNTZyYU8ACRArhViXyvlNQSUHa74VgW65caTuqw-omo7ikvL82XVJrg9Q256T93QaZyidygExS5TisI_p1fK70QfL-bV1r7zt1qX44G4af6HevI6hjUGw4kuGIwLrVq-i0B0g48PBRG2UOgPRm7ZbsIEjcv42g84n1KBFDPKflVSaS3fv4eJjHamiGL79CCn1qD81SQ",
-      "e": "AQAB"
+      "e": "AQAB",
+      "kid": "83e93b2404efe708"
     }
   ]
 }
